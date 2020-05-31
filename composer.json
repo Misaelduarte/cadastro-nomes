@@ -1,0 +1,12 @@
+{
+    "name": "duart/php-projetos",
+    "description": "Gerando arquivo para salvar nomes inseridos na entrada do formulário",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Misael Duarte",
+            "email": "misael.winphp@gmail.com"
+        }
+    ],
+    "require": {}
+}
