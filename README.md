@@ -9,4 +9,5 @@ Cadastrando nome inserido no formulário, salvando no arquivo nomes.txt, e dando
 ![client-side-run](./Lista-nome-result.png)
 
 Web Developer Misael Duarte - [@misael](https://bit.ly/linkedin-misaelduarte)
+
 Distribuído sob a licença [MIT](./LICENCE)
