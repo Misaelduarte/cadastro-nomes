@@ -1,5 +1,5 @@
 # CADASTRO DE NOMES 
-![GitHub](https://img.shields.io/github/license/Misaelduarte/cadastro-nomes)
+(![GitHub](https://img.shields.io/github/license/Misaelduarte/cadastro-nomes))[.\LICENCE]
 
 Utilizando conceitos do PHP, como file_get_contents e file_put_contents, para manipulação de arquivos.
 Cadastrando nome inserido no formulário, salvando no arquivo nomes.txt, e dando um print na tela.
